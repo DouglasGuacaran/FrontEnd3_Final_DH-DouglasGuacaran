@@ -1,0 +1,11 @@
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# Archivos de compilación
+/build
+/dist
+
+# Archivos de configuración del IDE
+.idea
+.vscode
